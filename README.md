@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 #  👨‍💻 About Me
 🧑‍🎓 Student of BSTU
 
@@ -17,3 +13,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wovkess&icon=1&color=10)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
