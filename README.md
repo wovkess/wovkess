@@ -1,5 +1,5 @@
 #  👨‍💻 About Me
-🧑‍🎓 Student of BSTU
+🧑‍🎓 Student of BSTU <br />
 👨‍💻 Computer trainer
 
 
