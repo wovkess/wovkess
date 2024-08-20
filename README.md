@@ -1,5 +1,5 @@
 #  👨‍💻 About Me
-🧑‍🎓 Student of BSTU <br />
+🖥️ System administrator <br />
 👨‍💻 Computer trainer
 
 
